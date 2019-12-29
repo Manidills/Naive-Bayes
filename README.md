@@ -9,6 +9,6 @@ In easy way-
 
 p(class|features)= p(features|class).p(class)/p(features)
 
-It works well for categorical and text datas
-It perform well on small dataset
+1. It works well for categorical and text datas
+2. It perform well on small dataset
 
